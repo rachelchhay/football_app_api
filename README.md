@@ -1,8 +1,13 @@
 # README
 
+https://football-app-frontend.herokuapp.com/
+
+https://fantasy-football-tool-api.herokuapp.com/
+
 https://waffle.io/rachelchhay/football_app_api
 
 Rachel Chhay
+Mike Skelton
 
 Improvements to add:
 
